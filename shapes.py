@@ -1,0 +1,1 @@
+shapeX, shapeY = 200, 300
